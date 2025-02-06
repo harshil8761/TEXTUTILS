@@ -9,7 +9,7 @@ function footer() {
           <div className="container text-left text-light" align="center ">
               Made By 😎 Harshil Gohil &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
             <SocialIcon url="https://github.com/harshil8761" style={{height:'40px',width:'40px'}}/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <SocialIcon url="https://www.facebook.com/divyang.surani.1" style={{height:'40px',width:'40px'}}/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <SocialIcon url="https://www.facebook.com/gohil.harshil.75" style={{height:'40px',width:'40px'}}/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <SocialIcon url="https://gohilharshil858@gmail.com/" style={{height:'40px',width:'40px'}}/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </div>
         </footer>
